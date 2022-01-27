@@ -1,8 +1,8 @@
 # The recipe app
 
-One of my side project next to 42 school studies to learn Javascript, combined with HTML and CSS.
-This project was a great moment to get introduce these 3 different coding language, and get a better understanding how apps made,
-how they working, how to cobmine these three language together and how to use inspection mode on Google Chrome.
+One of my side project next to 42 school studies to learn `Javascript`, combined with `HTML` and `CSS`.
+This project was a great moment to get introduce these 3 different coding languages, and get a better understanding of how apps are made,
+how they work, how to combine these three languages together and how to use inspection mode on Google Chrome.
 
 The project using API database from [TheMealDB](https://www.themealdb.com/api.php)
 
