@@ -34,6 +34,4 @@ The project using API database from [TheMealDB](https://www.themealdb.com/api.ph
     • Create my own API database, based on my granny's own recipe book
     • Replace the english API with granny's Hungarian language database recipes
     
-If you interested also to make cool beginner projects with html, css and javascript check this out
-
-Credit: https://www.youtube.com/watch?v=dtKciwk_si4&t=11649s&ab_channel=FlorinPop
+If you interested also to make cool beginner projects with html, css and javascript check [this](https://www.youtube.com/watch?v=dtKciwk_si4&t=11649s&ab_channel=FlorinPop)out
