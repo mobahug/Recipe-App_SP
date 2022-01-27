@@ -1,6 +1,7 @@
 # The recipe app
 
 One of my side project next to 42 school studies to learn Javascript, combined with HTML and CSS.
+
 The project using API database from [TheMealDB](https://www.themealdb.com/api.php)
 
 <img width="300" alt="Screenshot 2022-01-27 at 18 37 08" src="https://user-images.githubusercontent.com/83179142/151402877-6ce126f0-550c-4882-b5f0-11c2351bca7b.png">
