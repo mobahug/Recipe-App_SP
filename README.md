@@ -9,7 +9,9 @@ The project using API database from [TheMealDB](https://www.themealdb.com/api.ph
 ## How to run it?
 
 Just clone this repository to your Visual Studio and download `Live Server` extension.
+
 <img width="300" alt="Screenshot 2022-01-27 at 21 14 32" src="https://user-images.githubusercontent.com/83179142/151427994-c4625893-d836-45f7-8d37-7cb7a47fd0f1.png">
+
 After that right click to the html file and choose `Open with Live Server`
 
 <img width="300" alt="Screenshot 2022-01-27 at 18 37 08" src="https://user-images.githubusercontent.com/83179142/151402877-6ce126f0-550c-4882-b5f0-11c2351bca7b.png">
